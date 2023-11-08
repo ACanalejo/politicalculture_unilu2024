@@ -1,5 +1,7 @@
 # Political Culture
 
+Dr. Álvaro Canalejo-Molero
+
 University of Lucerne
 
 Hauptseminar Spring 2024
