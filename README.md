@@ -40,25 +40,25 @@ Discrimination due to race, gender, ethnicity, or sexual orientation is strictly
 
 ## Evaluation
 
-### Mandatory requirements (4 credits) {.unnumbered}
+### Mandatory requirements (4 credits) 
 
 To receive the credits, students are expected to fulfil the following criteria:
 
-#### 1. Attend all the sessions {.unnumbered}
+#### 1. Attend all the sessions 
 
 Attendance is mandatory. Students can miss a maximum of two sessions. Missing more sessions without a justified certificate of absence implies failing the course.
 
-#### 2. Study the mandatory readings before each session {.unnumbered}
+#### 2. Study the mandatory readings before each session 
 
 *Studying = reading + critical thinking*. 
 
 Students can find the texts in the materials folder in OLAT.
 
-#### 3. Participate actively {.unnumbered}
+#### 3. Participate actively 
 
 Active engagement involves intervening during the discussion with questions, comments and ideas, reflecting on the content of the readings. Students are always encouraged to raise original arguments as long as they are linked to the course topics.
 
-#### 4. Write two response papers {.unnumbered}
+#### 4. Write two response papers 
 
 Students must select one session from Block II and one session from Block III, and write one short response paper (500-700 words) to each of them. The response papers should focus on one of the mandatory readings, however, students will benefit from linking them with ideas from additional readings.
 
@@ -78,7 +78,7 @@ The **submission rules** are:
 
 - The file must be in Word. The title should include the session's number followed by the student's surname in capital letters and the response paper number (either 1 or 2). For example: *session05_CANALEJO_1*.
 
-#### 5. Write a research proposal {.unnumbered}
+#### 5. Write a research proposal 
 
 **Objective**
 
@@ -120,7 +120,7 @@ While students are encouraged to choose any topic of interest within the realm o
 
 Topics related to the political culture of the students' country of origin are particularly encouraged.
 
-#### 6. Present their research proposal  {.unnumbered}
+#### 6. Present their research proposal  
 
 Following the submission of the research proposal, students will receive personalized feedback from the lecturer. They must reflect on this feedback, make corrections and improvements to their research proposal, and prepare a presentation that will take place on the last Block of the course.
 
@@ -130,11 +130,11 @@ The presentation must follow the same structure as the research proposal and mak
 
 The presentation slides must be uploaded to the folder *Presentation slides* in OLAT at the beginning of the week of the last Block, **by Monday 6th of May at noon (12:00)**. This will allow students and the lecturer to prepare comments in advance. The name of the slides file should be *presentation_slides_YOURSURNAME* (e.g., *presentation_slides_CANALEJO*).
 
-#### 7. Serve as discussant  {.unnumbered}
+#### 7. Serve as discussant  
 
 At the beginning of the course, during the organization of the presentations, each student will be assigned as a discussant of another student's presentation. The discussant will use the presentation slide to prepare comments in advance that will share after the presentation.
 
-#### Grading policy {.unnumbered}
+#### Grading policy 
 
 - 10% of the grade is determined by the quality and quantity of the participation in class.
 
@@ -146,7 +146,7 @@ At the beginning of the course, during the organization of the presentations, ea
 
 - 10% of the grade is determined by the quality of the discussion.
 
-### Seminar paper (6 credits) {.unnumbered}
+### Seminar paper (6 credits) 
 
 Students can choose to write a seminar paper to obtain six extra credits. The seminar paper must have between 5500 and 6500 words. The topic should be agreed upon between the instructor and the student. To this end, students are asked to write a paper outline of 1-2 pages consisting of the following elements:
 
@@ -174,11 +174,11 @@ This course is a block seminar and does not follow a weekly basis. Therefore, th
 
 ## Course schedule
 
-### Block I. Introduction to Political Culture (08.03.24 / 9:15–17:00) {.unnumbered}
+### Block I. Introduction to Political Culture (08.03.24 / 9:15–17:00) 
 
 This block introduces the conceptual framework of the course. It discusses the notions of culture, social norms and group identity, exploring how cultural differentiation occurs and persists. This introductory block aims to provide the analytical tools to study political behaviour from a cultural perspective. It will allow us to dig into specific topics in blocks II and III.
 
-#### Session 1. Introduction to the course (08.03.24 / 9:15–10:45) {.unnumbered}
+#### Session 1. Introduction to the course (08.03.24 / 9:15–10:45) 
 
 Required readings:
 
@@ -187,7 +187,7 @@ Required readings:
 - Jared Rubin (2020). Culture in Historical Political Economy. [Broadstreet blogpost](https://broadstreet.blog/2020/08/19/culture-in-historical-political-economy/)
 
 
-#### Session 2. A scientific approach to culture (08.03.24 / 11:00–12:30) {.unnumbered}
+#### Session 2. A scientific approach to culture (08.03.24 / 11:00–12:30) 
 
 Required readings:
 
@@ -201,7 +201,7 @@ Additional readings:
 
 - D’Andrade, R. (2008). Some kinds of causal powers that make up culture. In *Explaining Culture Scientifically*, 19-36.
 
-#### Session 3. Social norms and social identity (08.03.24 / 13:45–15:15) {.unnumbered}
+#### Session 3. Social norms and social identity (08.03.24 / 13:45–15:15) 
 
 Required readings:
 
@@ -219,7 +219,7 @@ Additional readings:
 
 - Valentim, V. (2023). Social Norms (Entry for the Encyclopedia of Political Sociology).
 
-#### Session 4. Cultural origins, evolution and persistence (08.03.24 / 15:30–17:00) {.unnumbered}
+#### Session 4. Cultural origins, evolution and persistence (08.03.24 / 15:30–17:00) 
 
 Required readings:
 
@@ -245,11 +245,11 @@ Additional readings:
 
 - Talhelm, T., & English, A. S. (2020). Historically rice-farming societies have tighter social norms in China and worldwide. Proceedings of the National Academy of Sciences, 117(33), 19816–19824. https://doi.org/10.1073/pnas.1909909117
 
-### Block II. Topics in Political Culture I (22.03.24 / 9:15–15:30) {.unnumbered}
+### Block II. Topics in Political Culture I (22.03.24 / 9:15–15:30) 
 
 This block dives into the study of specific political behavior topics from a cultural perspective. It focuses on three topics: vote choice, electoral turnout and inter-group conflict.
 
-#### Session 5. The cultural determinants of vote choice (22.03.24 / 9:15–10:45) {.unnumbered}
+#### Session 5. The cultural determinants of vote choice (22.03.24 / 9:15–10:45) 
 
 Required readings:
 
@@ -276,7 +276,7 @@ Additional readings:
 - Ponticelli, J., & Miao, M. (2022). Eclipses and the Memory of Revolutions: Evidence from China.
 
 
-#### Session 6. The social norm of voting turnout (22.03.24 / 11:00–12:30) {.unnumbered}
+#### Session 6. The social norm of voting turnout (22.03.24 / 11:00–12:30) 
 
 Required readings:
 
@@ -291,7 +291,7 @@ Additional readings:
 - Gerber, A. S., & Rogers, T. (2009). Descriptive Social Norms and Motivation to Vote: Everybody’s Voting and so Should You. The Journal of Politics, 71(1), 178–191. https://doi.org/10.1017/S0022381608090117
 
 
-#### Session 7. Conflicting identities and inter-group relations (22.03.24 / 14:00–15:30) {.unnumbered}
+#### Session 7. Conflicting identities and inter-group relations (22.03.24 / 14:00–15:30) 
 
 Required readings:
 
@@ -309,11 +309,11 @@ Additional readings:
 
 - Rubenson, D., & Dawes, C. T. (2022). Subtle primes of in-group and out-group affiliation change votes in a large scale field experiment. Scientific Reports, 12(1), 22526.
 
-### Block III. Topics in Culture and Politics II (19.04.24 / 9:15–17:00) {.unnumbered}
+### Block III. Topics in Culture and Politics II (19.04.24 / 9:15–17:00) 
 
 This block digs further into the relationship between culture and politics, exploring how political change can induce cultural change and *vice versa*. It also looks at the opposite: how 'sticky' cultural preferences can contain political change. The goal is to identify patterns of reinforcement and contention between politics and culture.
 
-#### Session 8. Political change and ideological (de-)stigmatization (19.04.24 / 9:15–10:45) {.unnumbered}
+#### Session 8. Political change and ideological (de-)stigmatization (19.04.24 / 9:15–10:45) 
 
 Required readings:
 
@@ -336,7 +336,7 @@ Additional readings:
 - Valentim, V. (2021). Parliamentary Representation and the Normalization of Radical Right Support. Comparative Political Studies, 0010414021997159. https://doi.org/10.1177/0010414021997159
 
 
-#### Session 9. Institutions and cultural change (19.04.24 / 11:00–12:30) {.unnumbered}
+#### Session 9. Institutions and cultural change (19.04.24 / 11:00–12:30) 
 
 Required readings:
 
@@ -354,7 +354,7 @@ Additional readings:
 
 - Villamil, F., & Balcells, L. (2021). Do TJ policies cause backlash? Evidence from street name changes in Spain. Research & Politics.
 
-#### Session 10. Cultural change and backlash (19.04.24 / 14:00–15:30) {.unnumbered}
+#### Session 10. Cultural change and backlash (19.04.24 / 14:00–15:30) 
 
 Required readings:
 
@@ -376,15 +376,15 @@ Additional readings:
 
 - Walter, S. (2021). The backlash against globalization. Annual Review of Political Science, 24, 421–442.
 
-### Block IV. Presentations (10.05.24 / 9:15–17:00) {.unnumbered}
+### Block IV. Presentations (10.05.24 / 9:15–17:00) 
 
 In this final block, students will present their research proposals and connect them to the topics studied during the course. If time allows, the final session will include a feedback loop and a wrapping-up discussion.
 
-#### Session 11. Presentations I (10.05.24 / 9:15–10:45) {.unnumbered}
+#### Session 11. Presentations I (10.05.24 / 9:15–10:45) 
 
-#### Session 12. Presentations II (10.05.24 / 11:00–12:30) {.unnumbered}
+#### Session 12. Presentations II (10.05.24 / 11:00–12:30) 
 
-#### Session 13. Presentations III (10.05.24 / 13:45–15:15) {.unnumbered}
+#### Session 13. Presentations III (10.05.24 / 13:45–15:15) 
 
-#### Session 14. Presentations IV / Wrap-up session (10.05.24 / 15:30–17:00) {.unnumbered}
+#### Session 14. Presentations IV / Wrap-up session (10.05.24 / 15:30–17:00) 
 
