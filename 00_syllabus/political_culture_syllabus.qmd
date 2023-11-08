@@ -1,20 +1,62 @@
-# Political Culture
+---
+title: "Political Culture"
+subtitle: "Hauptseminar Spring 2024" 
+author: 
+- Classroom TBC
+thanks: "This course takes inspiration from the courses *Political Culture*, by Elias Dinas at the European University Institute, *Political Culture & Norms: How Societies Change*, by Daniel Bischof at Aarhus University, and *Advanced Topics in Political Economy*, by Amuitz Garmendia at the University Carlos III of Madrid. \\newline \\newline This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`" 
 
-University of Lucerne
+csl: ../00_bibliography/apa.csl
+link-citations: true
+linkcolor: blue
+fontsize: 12pt
+number-sections: true
+format: 
+  pdf:
+    include-in-header: 
+      text: |
+          % LATEX PACKAGES
+          \usepackage[T1]{fontenc} % Use the T1 font encoding
+          \usepackage{fontspec} % Allow to modify font
+          \usepackage{setspace}\onehalfspacing    % Line spacing control
+          \usepackage[utf8]{inputenc}  % UTF-8 input encoding
+          \usepackage{dcolumn}     % Align on decimal points in  tables
+          \usepackage{booktabs}   % Professional tables
+          \usepackage{longtable}     % Tables spanning multiple pages
+          \usepackage{array}     % Enhanced array and table tools
+          \usepackage{multirow}  % Cells spanning multiple rows in  tables
+          \usepackage{wrapfig}   % Wrap text around figures
+          \usepackage{float}     % Improved float control
+          \usepackage{colortbl}  % Color for tables
+          \usepackage{pdflscape} % Landscape-oriented pages
+          \usepackage{tabu}    % Flexible table environment
+          \usepackage{threeparttable}  % Tables with notes
+          \usepackage{threeparttablex} % "threeparttable" with  "longtable" support
+          \usepackage[normalem]{ulem}  % Various underlining styles
+          \usepackage{makecell}         % Enhanced table cell creation
+          \usepackage{xcolor}  % Advanced color support
+          \usepackage{fancyhdr}    % Custom headers and footers
+          
+          % LATEX SETUP
+          \pagestyle{fancy}  % Use the fancy header/footer style
+          \fancypagestyle{plain}{\pagestyle{fancy}} % Fancy style for plain pages
+          \fancyhead[LE,RO]{Dr. Álvaro Canalejo-Molero}
+          \fancyhead[RE,LO]{University of Lucerne}
 
-Hauptseminar Spring 2024
+---
 
-Classroom TBC
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
-## Course description
+# Course description
 
 Why citizens of Eastern Germany are more likely to vote for the radical right? Why do people turn out to vote even if their likelihood of influencing the election outcome is minimal? How is it possible that support for LGBTQi+ policies increases simultaneously with support for conservative parties? Traditional political science accounts focusing on voters' rationality and institutions fall short of explanatory power to answer these and related questions. Instead, cultural explanations are gaining prominence, and the increasing availability of digitalized historical and text data has provided the ground to test them systematically. Following this trend, this course introduces students to the developing field of Political Culture, with a particular focus on applications in political behavior topics. The course combines a well-curated reading list with introductory lectures and seminar discussions to foster critical thinking about the role of culture in politics. Students who take this course will acquire the skills to analyze political behavior from a cultural perspective, developing original research ideas and designs. 
 
-## Course organization
+# Course organization
 
 The course is organized as a block seminar that will run during the Spring term of 2024. Each block will consist of three/four sessions concentrated on Fridays. The first block will introduce the core conceptual tools in the study of political culture, such as the concepts of social norms, group identity or cultural transmission. The second and third blocks will then delve into specific political behavior topics revisited from a cultural perspective, such as voting preferences, electoral turnout or inter-group relations. We will also investigate the interaction between political and cultural change and assess the conditions under which they may reinforce or contain each other. Finally, students will present their research proposals on one of these topics.
 
-## Learning outcomes
+# Learning outcomes
 
 By the end of this course, students will be able to:
 
@@ -28,37 +70,37 @@ By the end of this course, students will be able to:
 
 - **(competence - communication)**  debate in front of and with their colleagues; communicate complex concepts effectively to a broad audience.
 
-## Teaching policy
+# Teaching policy
 
 Each session will consist of a mix of lecturing parts, in which the lecturer will present, discuss and expand on the readings, and discussion parts, where we will engage in open debates and group activities to reflect critically on the session topic. These latter parts will also focus on the research design aspects of the readings and how to carry students' ideas. The goal is to build research skills gradually so that the final evaluation assignment is dealt with since the beginning of the course. 
 
 All students are expected to study all the mandatory readings before class. Slides are not intended to replace given texts and will only be distributed after each session.
 
-## Integration and interaction policy
+# Integration and interaction policy
 
 Discrimination due to race, gender, ethnicity, or sexual orientation is strictly forbidden in this course. Students are encouraged to use inclusive language and to respect the sexual and gender identification of others. During each session, the lecturer will actively promote equal participation within the class. More generally, interventions must be carried out respectfully, integrating and engaging with different views and perspectives. Discouraging language or other bullying strategies are strictly forbidden, too.
 
-## Evaluation
+# Evaluation
 
-### Mandatory requirements (4 credits) {.unnumbered}
+## Mandatory requirements (4 credits) {.unnumbered}
 
 To receive the credits, students are expected to fulfil the following criteria:
 
-#### 1. Attend all the sessions {.unnumbered}
+### 1. Attend all the sessions {.unnumbered}
 
 Attendance is mandatory. Students can miss a maximum of two sessions. Missing more sessions without a justified certificate of absence implies failing the course.
 
-#### 2. Study the mandatory readings before each session {.unnumbered}
+### 2. Study the mandatory readings before each session {.unnumbered}
 
 *Studying = reading + critical thinking*. 
 
 Students can find the texts in the materials folder in OLAT.
 
-#### 3. Participate actively {.unnumbered}
+### 3. Participate actively {.unnumbered}
 
 Active engagement involves intervening during the discussion with questions, comments and ideas, reflecting on the content of the readings. Students are always encouraged to raise original arguments as long as they are linked to the course topics.
 
-#### 4. Write two response papers {.unnumbered}
+### 4. Write two response papers {.unnumbered}
 
 Students must select one session from Block II and one session from Block III, and write one short response paper (500-700 words) to each of them. The response papers should focus on one of the mandatory readings, however, students will benefit from linking them with ideas from additional readings.
 
@@ -78,7 +120,7 @@ The **submission rules** are:
 
 - The file must be in Word. The title should include the session's number followed by the student's surname in capital letters and the response paper number (either 1 or 2). For example: *session05_CANALEJO_1*.
 
-#### 5. Write a research proposal {.unnumbered}
+### 5. Write a research proposal {.unnumbered}
 
 **Objective**
 
@@ -120,7 +162,7 @@ While students are encouraged to choose any topic of interest within the realm o
 
 Topics related to the political culture of the students' country of origin are particularly encouraged.
 
-#### 6. Present their research proposal  {.unnumbered}
+### 6. Present their research proposal  {.unnumbered}
 
 Following the submission of the research proposal, students will receive personalized feedback from the lecturer. They must reflect on this feedback, make corrections and improvements to their research proposal, and prepare a presentation that will take place on the last Block of the course.
 
@@ -130,11 +172,11 @@ The presentation must follow the same structure as the research proposal and mak
 
 The presentation slides must be uploaded to the folder *Presentation slides* in OLAT at the beginning of the week of the last Block, **by Monday 6th of May at noon (12:00)**. This will allow students and the lecturer to prepare comments in advance. The name of the slides file should be *presentation_slides_YOURSURNAME* (e.g., *presentation_slides_CANALEJO*).
 
-#### 7. Serve as discussant  {.unnumbered}
+### 7. Serve as discussant  {.unnumbered}
 
 At the beginning of the course, during the organization of the presentations, each student will be assigned as a discussant of another student's presentation. The discussant will use the presentation slide to prepare comments in advance that will share after the presentation.
 
-#### Grading policy {.unnumbered}
+### Grading policy {.unnumbered}
 
 - 10% of the grade is determined by the quality and quantity of the participation in class.
 
@@ -146,7 +188,7 @@ At the beginning of the course, during the organization of the presentations, ea
 
 - 10% of the grade is determined by the quality of the discussion.
 
-### Seminar paper (6 credits) {.unnumbered}
+## Seminar paper (6 credits) {.unnumbered}
 
 Students can choose to write a seminar paper to obtain six extra credits. The seminar paper must have between 5500 and 6500 words. The topic should be agreed upon between the instructor and the student. To this end, students are asked to write a paper outline of 1-2 pages consisting of the following elements:
 
@@ -168,17 +210,17 @@ Please refer to "The (Pro-)Seminar Paper" section of the guidelines for [Academi
 
 **Students are strongly encouraged to develop their research proposal assignment for their pro-seminar paper.**
 
-## Office hours
+# Office hours
 
 This course is a block seminar and does not follow a weekly basis. Therefore, there are not weekly office hours. Instead, any student can send an e-mail to the lecturer at [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch) to schedule a meeting within a one-week time.
 
-## Course schedule
+# Course schedule
 
-### Block I. Introduction to Political Culture (08.03.24 / 9:15–17:00) {.unnumbered}
+## Block I. Introduction to Political Culture (08.03.24 / 9:15–17:00) {.unnumbered}
 
 This block introduces the conceptual framework of the course. It discusses the notions of culture, social norms and group identity, exploring how cultural differentiation occurs and persists. This introductory block aims to provide the analytical tools to study political behaviour from a cultural perspective. It will allow us to dig into specific topics in blocks II and III.
 
-#### Session 1. Introduction to the course (08.03.24 / 9:15–10:45) {.unnumbered}
+### Session 1. Introduction to the course (08.03.24 / 9:15–10:45) {.unnumbered}
 
 Required readings:
 
@@ -187,7 +229,7 @@ Required readings:
 - Jared Rubin (2020). Culture in Historical Political Economy. [Broadstreet blogpost](https://broadstreet.blog/2020/08/19/culture-in-historical-political-economy/)
 
 
-#### Session 2. A scientific approach to culture (08.03.24 / 11:00–12:30) {.unnumbered}
+### Session 2. A scientific approach to culture (08.03.24 / 11:00–12:30) {.unnumbered}
 
 Required readings:
 
@@ -201,7 +243,7 @@ Additional readings:
 
 - D’Andrade, R. (2008). Some kinds of causal powers that make up culture. In *Explaining Culture Scientifically*, 19-36.
 
-#### Session 3. Social norms and social identity (08.03.24 / 13:45–15:15) {.unnumbered}
+### Session 3. Social norms and social identity (08.03.24 / 13:45–15:15) {.unnumbered}
 
 Required readings:
 
@@ -219,7 +261,7 @@ Additional readings:
 
 - Valentim, V. (2023). Social Norms (Entry for the Encyclopedia of Political Sociology).
 
-#### Session 4. Cultural origins, evolution and persistence (08.03.24 / 15:30–17:00) {.unnumbered}
+### Session 4. Cultural origins, evolution and persistence (08.03.24 / 15:30–17:00) {.unnumbered}
 
 Required readings:
 
@@ -245,11 +287,11 @@ Additional readings:
 
 - Talhelm, T., & English, A. S. (2020). Historically rice-farming societies have tighter social norms in China and worldwide. Proceedings of the National Academy of Sciences, 117(33), 19816–19824. https://doi.org/10.1073/pnas.1909909117
 
-### Block II. Topics in Political Culture I (22.03.24 / 9:15–15:30) {.unnumbered}
+## Block II. Topics in Political Culture I (22.03.24 / 9:15–15:30) {.unnumbered}
 
 This block dives into the study of specific political behavior topics from a cultural perspective. It focuses on three topics: vote choice, electoral turnout and inter-group conflict.
 
-#### Session 5. The cultural determinants of vote choice (22.03.24 / 9:15–10:45) {.unnumbered}
+### Session 5. The cultural determinants of vote choice (22.03.24 / 9:15–10:45) {.unnumbered}
 
 Required readings:
 
@@ -276,7 +318,7 @@ Additional readings:
 - Ponticelli, J., & Miao, M. (2022). Eclipses and the Memory of Revolutions: Evidence from China.
 
 
-#### Session 6. The social norm of voting turnout (22.03.24 / 11:00–12:30) {.unnumbered}
+### Session 6. The social norm of voting turnout (22.03.24 / 11:00–12:30) {.unnumbered}
 
 Required readings:
 
@@ -291,7 +333,7 @@ Additional readings:
 - Gerber, A. S., & Rogers, T. (2009). Descriptive Social Norms and Motivation to Vote: Everybody’s Voting and so Should You. The Journal of Politics, 71(1), 178–191. https://doi.org/10.1017/S0022381608090117
 
 
-#### Session 7. Conflicting identities and inter-group relations (22.03.24 / 14:00–15:30) {.unnumbered}
+### Session 7. Conflicting identities and inter-group relations (22.03.24 / 14:00–15:30) {.unnumbered}
 
 Required readings:
 
@@ -309,11 +351,11 @@ Additional readings:
 
 - Rubenson, D., & Dawes, C. T. (2022). Subtle primes of in-group and out-group affiliation change votes in a large scale field experiment. Scientific Reports, 12(1), 22526.
 
-### Block III. Topics in Culture and Politics II (19.04.24 / 9:15–17:00) {.unnumbered}
+## Block III. Topics in Culture and Politics II (19.04.24 / 9:15–17:00) {.unnumbered}
 
 This block digs further into the relationship between culture and politics, exploring how political change can induce cultural change and *vice versa*. It also looks at the opposite: how 'sticky' cultural preferences can contain political change. The goal is to identify patterns of reinforcement and contention between politics and culture.
 
-#### Session 8. Political change and ideological (de-)stigmatization (19.04.24 / 9:15–10:45) {.unnumbered}
+### Session 8. Political change and ideological (de-)stigmatization (19.04.24 / 9:15–10:45) {.unnumbered}
 
 Required readings:
 
@@ -336,7 +378,7 @@ Additional readings:
 - Valentim, V. (2021). Parliamentary Representation and the Normalization of Radical Right Support. Comparative Political Studies, 0010414021997159. https://doi.org/10.1177/0010414021997159
 
 
-#### Session 9. Institutions and cultural change (19.04.24 / 11:00–12:30) {.unnumbered}
+### Session 9. Institutions and cultural change (19.04.24 / 11:00–12:30) {.unnumbered}
 
 Required readings:
 
@@ -354,7 +396,7 @@ Additional readings:
 
 - Villamil, F., & Balcells, L. (2021). Do TJ policies cause backlash? Evidence from street name changes in Spain. Research & Politics.
 
-#### Session 10. Cultural change and backlash (19.04.24 / 14:00–15:30) {.unnumbered}
+### Session 10. Cultural change and backlash (19.04.24 / 14:00–15:30) {.unnumbered}
 
 Required readings:
 
@@ -376,15 +418,15 @@ Additional readings:
 
 - Walter, S. (2021). The backlash against globalization. Annual Review of Political Science, 24, 421–442.
 
-### Block IV. Presentations (10.05.24 / 9:15–17:00) {.unnumbered}
+## Block IV. Presentations (10.05.24 / 9:15–17:00) {.unnumbered}
 
 In this final block, students will present their research proposals and connect them to the topics studied during the course. If time allows, the final session will include a feedback loop and a wrapping-up discussion.
 
-#### Session 11. Presentations I (10.05.24 / 9:15–10:45) {.unnumbered}
+### Session 11. Presentations I (10.05.24 / 9:15–10:45) {.unnumbered}
 
-#### Session 12. Presentations II (10.05.24 / 11:00–12:30) {.unnumbered}
+### Session 12. Presentations II (10.05.24 / 11:00–12:30) {.unnumbered}
 
-#### Session 13. Presentations III (10.05.24 / 13:45–15:15) {.unnumbered}
+### Session 13. Presentations III (10.05.24 / 13:45–15:15) {.unnumbered}
 
-#### Session 14. Presentations IV / Wrap-up session (10.05.24 / 15:30–17:00) {.unnumbered}
+### Session 14. Presentations IV / Wrap-up session (10.05.24 / 15:30–17:00) {.unnumbered}
 

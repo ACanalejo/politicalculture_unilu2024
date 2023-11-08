@@ -1,0 +1,13 @@
+### Hidden files ###
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+### Hidden folders ###
+
+**00_students/**
+**01_session01/**
+**01_session01/session01_files/**
+**01_session01/readings/**
