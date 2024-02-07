@@ -2,7 +2,7 @@
 title: "Political Culture"
 subtitle: "Hauptseminar Spring 2024" 
 author: 
-- Classroom TBC
+- Room 214 Inseliquai 10
 thanks: "This course takes inspiration from the courses *Political Culture*, by Elias Dinas at the European University Institute, *Political Culture & Norms: How Societies Change*, by Daniel Bischof at Aarhus University, and *Advanced Topics in Political Economy*, by Amuitz Garmendia at the University Carlos III of Madrid. \\newline \\newline This version of the syllabus: `r format(Sys.time(), '%d %b %Y')`" 
 
 csl: ../00_bibliography/apa.csl
