@@ -1,4 +1,4 @@
-# Political Culture
+# Culture and Politics
 
 Dr. Álvaro Canalejo-Molero
 
@@ -6,7 +6,7 @@ University of Lucerne
 
 Hauptseminar Spring 2024
 
-Classroom TBC
+Room 214 Inseliquai 10
 
 ## Course description
 
@@ -311,7 +311,7 @@ Additional readings:
 
 - Rubenson, D., & Dawes, C. T. (2022). Subtle primes of in-group and out-group affiliation change votes in a large scale field experiment. Scientific Reports, 12(1), 22526.
 
-### Block III. Topics in Culture and Politics II (19.04.24 / 9:15–17:00) 
+### Block III. Topics in Political Culture II (19.04.24 / 9:15–17:00) 
 
 This block digs further into the relationship between culture and politics, exploring how political change can induce cultural change and *vice versa*. It also looks at the opposite: how 'sticky' cultural preferences can contain political change. The goal is to identify patterns of reinforcement and contention between politics and culture.
 
