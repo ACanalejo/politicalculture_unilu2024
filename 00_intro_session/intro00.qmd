@@ -1,0 +1,184 @@
+---
+title: "Culture & Politics"
+subtitle: "Introductory Presentation"
+author: "Álvaro Canalejo-Molero"
+institute: "University of Lucerne"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/chicago17th.csl
+toc: false
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme: default
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         UniLu Hauptseminar - Spring Term 2024
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+## About the instructor
+
+-   Postdoctoral researcher at the project [DIGIPOL](https://www.unilu.ch/en/faculties/faculty-of-humanities-and-social-sciences/institutes-departements-and-research-centres/department-of-political-science/research/digitalization-and-political-conflict-parties-voters-and-electoral-alignment-digipol/#section=c122045)
+
+- PhD in Political and Social Sciences from the [EUI](https://www.eui.eu/en/home)
+
+
+- Interested in **political behaviour**, **comparative politics**, democratic attitudes and preferences, **quantitative methods**
+
+- Originally from the [city with the most UNESCO heritage sites in the world](https://www.architecturaldigest.com/story/cordoba-spain-has-most-unesco-world-heritage-sites)
+
+- You can find more information about me in [my personal website](https://acanalejo.github.io/)
+
+## About the course
+
+![](germanydivide_pueyo.gif){fig-align="center" width=550 height=550}
+
+Pueyo [-@tomas_pueyo_tomaspueyo_eastwest_2024]
+
+## About the course
+
+- Traditional approaches to political behaviour has focused on:
+
+  1. Institutions and incentives
+  
+  2. Socio-demographic factors
+  
+  3. Other psychological factors
+
+. . .
+
+- **Cultural factors**, despite acknowledgedly pervasive, has been largely ignored in political science until recently
+
+## The course organization I
+
+**Block I.** 08.03.24 / 9:15–17:00
+
+- Introduction to political culture: social norms, cultural origins and persistence
+
+**Block II.** 22.03.24 / 9:15–15:30
+
+- Political behaviour topics I: vote choice, turnout, group identity
+
+## The course organization II
+
+**Block III.** 19.04.24 / 9:15–17:00
+
+- Political behaviour topics II: stigmatization, cultural change and backlash
+
+**Block IV.** 10.05.24 / 9:15–17:00
+
+- Presentations: *mini-conference*!
+
+## Evaluation I
+
+1. **Attendance**
+
+    - Max. missing two sessions
+
+2. **Mandatory readings**
+
+    - Studying = reading + critical thinking
+    
+3. **Active participation**
+
+    - *"No such thing as a stupid question"*
+
+## Evaluation II
+
+4. **Two response papers**
+
+    - *Not a summary!*
+    
+    - 500-700 words
+    
+    - One for block II and one for block III
+    
+    - Deadline: **previous Friday at noon (12:00)**
+
+    - More information in the [syllabus](https://lms.uzh.ch/auth/RepositoryEntry/17509057822/CourseNode/103233508373250)
+
+## Evaluation III    
+    
+5. **Research proposal**
+
+    - Research paper without results
+    
+    - It must be feasible
+    
+    - 2500-3000 words
+    
+    - Deadline: **Friday 26th of April at noon (12:00)**, the week after Block III
+    
+    - More information in the [syllabus and in the PolSem guidelines for research](https://lms.uzh.ch/auth/RepositoryEntry/17509057822/CourseNode/103233508373250)
+
+## Evaluation IV
+   
+6. **Research proposal presentation**
+
+    - 15 minutes presentation + 15 minutes of discussion and Q&A (flexibility depending on registered members)
+    
+    - Incorporating feedback to the research proposal
+    
+    - During **Block IV**
+
+7. **Discussion**
+
+    - One discussant for presenter
+    
+    - It must be prepared in advance and includes constructive feedback (e.g., sandwhich technique)
+
+## Grading policy
+
+- 10% participation
+
+- 20% response papers
+
+- 20% written research proposal
+
+- 40% presentation
+
+- 10% discussion
+
+--
+
+**100% = 6 points**
+
+## In summary...
+
+- Culture as an **overlooked dimension to unpack**
+
+- Culture **co-evolving** with institutions and behaviour rather than being just their cause or outcome
+
+- Culture remained **to be (1) conceptualized, (2) operationalized and (3) theorized within political science**
+
+## Thank you! 
+
+
+<br>
+
+<br>
+
+I hope to see many of you **next March 8th** :)
+
+# References
