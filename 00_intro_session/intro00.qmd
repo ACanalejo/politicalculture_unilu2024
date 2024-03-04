@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Culture & Politics"
 subtitle: "Introductory Presentation"
 author: "Álvaro Canalejo-Molero"
@@ -6,6 +7,15 @@ institute: "University of Lucerne"
 bibliography: ../00_bibliography/polcul.bib
 csl: ../00_bibliography/chicago17th.csl
 toc: false
+=======
+title: "Introduction"
+subtitle: "Course Presentation"
+author: "Political Culture"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/apa.csl
+toc: true
+>>>>>>> a7dd872d2f42527c615a5a0847eee0585b86e05e
 toc-depth: 1
 number-sections: false
 echo: FALSE
@@ -36,6 +46,7 @@ format:
     transition: slide
     background-transition: fade
 ---
+<<<<<<< HEAD
 
 ## About the instructor
 
@@ -182,3 +193,5 @@ Pueyo [-@tomas_pueyo_tomaspueyo_eastwest_2024]
 I hope to see many of you **next March 8th** :)
 
 # References
+=======
+>>>>>>> a7dd872d2f42527c615a5a0847eee0585b86e05e
