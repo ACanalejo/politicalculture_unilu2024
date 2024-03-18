@@ -188,9 +188,9 @@ At the beginning of the course, during the organization of the presentations, ea
 
 - 10% of the grade is determined by the quality of the discussion.
 
-## Seminar paper (6 credits) {.unnumbered}
+## (Haupt-)seminar paper (6 credits) {.unnumbered}
 
-Students can choose to write a seminar paper to obtain six extra credits. The seminar paper must have between 5500 and 6500 words. The topic should be agreed upon between the instructor and the student. To this end, students are asked to write a paper outline of 1-2 pages consisting of the following elements:
+Students can choose to write a (haupt-)seminar paper to obtain six extra credits. The seminar paper must have between 5500 and 6500 words. The topic should be agreed upon between the instructor and the student. To this end, students are asked to write a paper outline of 1-2 pages consisting of the following elements:
 
 -	Introduction of the topic
 
@@ -206,7 +206,7 @@ The deadline for the submission of the paper outline is **May 1st 2023**.
 
 The deadline for the submission of the seminar paper is **September 1st 2023**.
 
-Please refer to "The (Pro-)Seminar Paper" section of the guidelines for [Academic Research and Writing of the Department of Political Science.](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Studium/2016-Jan_Guidelines_Booklet_engl.pdf) for more details.
+Please refer to the [Guidelines on How to Do Research of the Department of Political Science](https://www.unilu.ch/fileadmin/fakultaeten/ksf/institute/polsem/Dok/Guidelines_POLSEM___2023___Deutsch.pdf) for more details.
 
 **Students are strongly encouraged to develop their research proposal assignment for their pro-seminar paper.**
 
