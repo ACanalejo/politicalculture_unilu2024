@@ -1,0 +1,312 @@
+---
+title: "Conflicting Identities and Inter-group Relations"
+subtitle: "Session 07"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/chicago17th.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2024
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+# Introduction
+
+## Social groups and politics
+
+<br>
+
+. . .
+
+- **Cleavage** theory [@lipset1967cleavage]
+
+- **Social groups** and voting [@Lazarsfeld1944]
+
+- **Partisan identity** [@Campbell1960]
+
+<br>
+
+. . . 
+
+Any **other application** of [**group identity**]{style="color:red;"} theory to **political behavior**?
+
+---
+
+![](fig3_dennison.png){fig-align="center"}
+
+<center>Dennison & Geddes [-@Dennison2018]</center>
+
+---
+
+![](fig3_hangartner.png){fig-align="center"}
+
+<center>Hangartner et al [-@Hangartner2019]</center>
+
+# Conflicting identities and inter-group relations
+
+## Americans, not partisans
+
+[@levendusky_americans_2018]
+
+<br>
+
+. . .
+
+**Affective polarization**
+
+> "...a tendency to dislike and distrust the opposition and to impute negative characteristics to them"
+
+<br>
+
+Normatively [negative implications]{style="color:red;"}.
+
+<br>
+
+*How to ameliorate it?*
+
+## The argument
+
+<br>
+
+. . .
+
+A strong [shared identity]{style="color:red;"} can trump affective polarization (AP) if **heightened and salience** by fostering the ***recategorization*** of the *out-group*
+
+. . .
+
+<br>
+
+
+Why the [**American identity**]{style="color:red;"}?
+
+. . .
+
+- 50% strongly identifies as American 
+
+- **cross-cut** other divides
+
+
+## Hypotheses
+
+<br>
+
+**H1:** priming American identity **reduces** AP by reducing [hostility towards the out-group]{style="color:red;"}
+
+**H2:** priming American identity **reduces** AP **more** among [non-sorted partisans]{style="color:red;"}
+
+**H3:** priming American identity **reduces** AP **more** among [weak partisans]{style="color:red;"}
+
+## The experiment
+
+<br>
+
+. . .
+
+
+**Vignette experiment** where respondents have to read a text and then write about it
+
+- **Control:** non political text
+
+- **Treatment:** [patriotic text]{style="color:red;"}
+
+. . .
+
+<br>
+
+**N:** *1800 survey respondents* from an online probability sample
+
+**DV:** feeling thermomethers, like-dislike scales and stereotypical traits
+
+## Results I
+
+![](tab1_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## Results II
+
+![](tab2_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## Additional evidence I
+
+![](tab3_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## Additional evidence II
+
+![](tab4_levendusky.png){fig-align="center"}
+
+<center>Levendusky [-@levendusky_americans_2018]</center>
+
+## What are the implications of this study?
+
+<br>
+
+<br>
+
+. . .
+
+**And what about its** [**limitations?**]{style="color:red;"}
+
+---
+
+> "The study primarily examines the short-term effects of priming national identity, leaving unanswered questions about its sustainability over time. Longitudinal studies tracking participants' attitudes and behaviors beyond the immediate experimental session would provide valuable insights into the lasting impact of national identity priming. " *(Désirée)*
+
+---
+
+> "One 2023 study on terrorism coverage found the use of patriotic imagery could fuel polarisation by sparking calls for war and civil liberties restrictions among individuals with high levels of Right-Wing Authoritarianism but have the opposite effect on the general population [... so it] could exacerbate partisan divisions." *(Amanda)* 
+
+. . .
+
+> "Future research could also look at the effects of the recategorization. Priming creates a new 'them'. This raises the question of how and whether xenophobic and racist attitudes change when national identity is primed" *(Naemi)*
+
+--- 
+
+> "...how a similar experiment would unfold in a different environment in which, for example, there is an imbalance between the parties or competition is restricted as a result of structural or institutional conditions?" *(Naemi)*
+
+
+> "... to what the results would look like in multi-party systems?" *(Naemi)*
+
+
+> "...Future research could conduct similar research in a country where there’s is a clear correlation between right-wing parties and nationalist tendencies." *(Naemi)*
+
+---
+
+> "As Levendusky suggests perhaps the most effective strategy would be “the publication of stories that stress what Americans have in common, and the positive aspects of American identity”, but as affective polarisation has proven so useful for selling policies and newspapers, it’s difficult to see in whose interest it would be to print them." *(Amanda)*
+
+## The politics of homonationalism
+
+[@turnbull-dugarte_instrumentally_2023]
+
+. . .
+
+
+![](quote_alberto.png){fig-align="center"}
+
+## The argument
+
+<br>
+
+. . .
+
+*Genuine* vs [*instrumental*]{style="color:red;"} liberalism?
+
+<br>
+
+***Instrumental*** liberalism would be explained by **disidentification** as a reaction to a ***salient out-group***
+
+<br>
+
+> "The enemy of my enemy is my friend"
+
+## The experiments
+
+<br>
+
+. . .
+
+Two **vignette experiments** in the *UK* and *Spain*
+
+<br>
+
+**Control:** anti-LGTB+ *in-group* text
+
+**Treatment:** anti-LGTB+ [out-group]{style="color:red;"} text
+
+<br>
+
+**DV:** support for controversial pro-LGTB+ policy
+
+**Moderating variable:** pre-treatment attitudes toward immigrants
+
+## Results I
+
+![](fig3_alberto.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## Results II
+
+![](fig6_alberto.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## Additional evidence
+
+![](fig8_alberto.png){fig-align="center"}
+
+<center>Turnbull-Dugarte & López Ortega [-@turnbull-dugarte_instrumentally_2023]</center>
+
+## What are the implications of this study?
+
+
+<br>
+
+. . .
+
+> "...democratic systems rely on circumstantial support for goals understood as superior, whether it is the rule of the political in-group or the exclusion of ethnic out-groups as we show in this study. Indeed, many civil rights gains may hide **fragile underpinnings** that could explain recent democratic reversals in Western countries."
+
+## What are their limitations?
+
+<br>
+
+. . .
+
+> "The results are based on a group, from the UK and Spain which might affect how broadly we can apply them to groups or cultural settings." *(Jasna)*
+
+> "Early on, I wondered whether studying LGBT+ rights in Switzerland could be done at all, given the of the 'Verhüllungsverbot' initiative, which banned the ability to veil and was approved by the Swiss electorate." *(Jasna)*
+
+## How the two papers speak to each other?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+# Conclusion
+
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here on **April 19th**!
+
+# References

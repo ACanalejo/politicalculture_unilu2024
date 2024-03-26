@@ -1,0 +1,371 @@
+---
+title: "The Social Norm of Voting Turnout"
+subtitle: "Session 06"
+author: "Culture & Politics"
+institute: "Álvaro Canalejo-Molero"
+bibliography: ../00_bibliography/polcul.bib
+csl: ../00_bibliography/chicago17th.csl
+toc: true
+toc-depth: 1
+number-sections: false
+echo: FALSE
+warning: FALSE
+output: TRUE
+from: markdown+emoji
+format:
+  revealjs:
+    theme:
+      - default
+      - custom.scss
+    logo: ../00_images/logo_unilu.png
+    footer: | 
+         Hauptseminar - Spring Term 2024
+    title-slide-attributes:
+      data-background-image: "../00_images/unilu_building.png"
+      data-background-size: contain
+      data-background-opacity: "0.05"
+    incremental: false
+    smaller: false
+    scrollable: true
+    menu:
+      side: left
+      width: normal
+    preview-links: true
+    chalkboard:
+      theme: whiteboard
+      boardmarker-width: 5
+      buttons: false
+    transition: slide
+    background-transition: fade
+---
+
+# Introduction
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/voter-turnout" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+## What explains voting turnout?
+
+<br>
+
+<center>
+
+$pB + D > C$
+
+</center>
+
+<br>
+
+**$p$**  -- the probability the vote is pivotal
+
+**$B$**  -- the difference in utility from the candidates’ attributes or policy stances
+
+**$C$**  -- cost of voting
+
+<br>
+
+<center>
+
+Riker and Ordeshook [-@riker1968theory]
+
+</center>
+
+
+## What is *D*? {auto-animate=true}
+
+<br>
+
+. . .
+
+A resource-based model of political participation [@brady1995beyond]
+
+- They **can't**
+
+- They **don't want** to
+
+- **Nobody asked**
+
+## What is *D*? {auto-animate=true}
+
+<br>
+
+A resource-based model of political participation [@brady1995beyond]
+
+- [They **can't**:]{style="color:grey;"} [resources (SES)]{style="color:red;"}
+
+- [They **don't want** to:]{style="color:grey;"} [engagement (interest)]{style="color:red;"}
+
+- [**Nobody asked**:]{style="color:grey;"} [mobilization (networks)]{style="color:red;"}
+
+## What is *D*? {auto-animate=true}
+
+<br>
+
+A resource-based model of political participation [@brady1995beyond]
+
+- [They **can't**:]{style="color:grey;"} [resources (SES)]{style="color:red;"}
+
+- [They **don't want** to:]{style="color:grey;"} [engagement (interest)]{style="color:red;"}
+
+- [**Nobody asked**:]{style="color:grey;"} [mobilization (networks)]{style="color:red;"}
+
+***Anything else?***
+
+# The cultural component of voting turnout
+
+## Social pressure and voting turnout
+
+[@gerber2008social]
+
+<br>
+
+. . .
+
+Turnout as a **civic duty**
+
+<br>
+
+. . .
+
+Two **components**:
+
+- *Intrinsic* motivations
+
+- *Extrinsic* motivations
+
+## The argument
+
+<br>
+
+. . .
+
+**H1:** Increasing [intrinsic]{style="color:red;"} *(civic duty perceptions)* motivations increases turnout 
+
+**H2:** Increasing [extrinsic]{style="color:red;"} *(social pressure)* motivations increases turnout 
+
+**H3:** Increasing [extrinsic]{style="color:red;"} *(social pressure)* motivations may decrease turnout in those with high [intrinsic]{style="color:red;"} *(civic duty)* motivations 
+
+## The experiment I
+
+<br>
+
+. . .
+
+**Setting:** Michigan prior to the 2006 primary election
+
+
+**Data:** public available electoral records among registered voters
+
+
+**Randomization level:** households (more than 100,000)
+
+## The experiment II
+
+<br>
+
+. . .
+
+**Control:** --
+
+<br>
+
+**T1:** civic duty
+
+**T2:** civic duty + Hawthorne effect
+
+**T3:** household revealed information + update after elections
+
+**T4:** neighborhood revealed information + update after elections
+
+## Results I
+
+![](tab1_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+## Results II
+
+![](tab2_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+## Results III
+
+![](tab3_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+## Are the results substantial?
+
+. . .
+
+
+![](tab4_gerber.png){fig-align="center"}
+
+<center>Gerber et al [-@gerber2008social]</center>
+
+
+## What are the implications of this study?
+
+<br>
+
+. . .
+
+> "...the powerful effects of interventions like the ones described here present behavioral scientists with a **new paradigm** by which to study a wide array of different phenomena, ranging from habit-formation to interpersonal influence"
+
+## What are their limitations?
+
+<br>
+
+. . .
+
+> "...it relied on people being somewhat connected to their neighbours, because if they weren’t they would not have to fear their neighbour's reaction to their behaviour. That does not apply to huge Cities as for example New York, where people often don’t really interact with their neighbours" *(Sara)*
+
+---
+
+> "...they eliminated people living in bigger blocks and defined “household” by people living at the same address with the same last name which only leaves rather traditional and wealthier ways of living in the sample" *(Sara)*
+
+. . .
+
+> "...it would be interesting to extend its scope to an international level and compare the regional findings [...] analyzing how social pressure in different cultures impacts voter turnout." *(Désirée)*
+
+---
+
+> "Exploring alternative modes of communication or interventions, such as digital platforms or community-based initiatives, could provide a more comprehensive understanding of how social pressure operates in different contexts, especially in the age of social media." *(Désirée)*
+
+. . .
+
+> "Further research could employ qualitative methods or experimental designs to unpack the psychological processes through which social pressure influences voter behavior." *(Désirée)*
+
+---
+
+> "Is it problematic to pressure participants into voting by threatening them with exposure? To me that is a very questionable thing to do, especially because the voting participation increased significantly, and the scientists systematically excluded people that were most likely to vote the democratic party (which affects the political behaviour of the remaining participants aswell) the study therefore affected the outcome of an election." *(Sara)*
+
+
+## Turnout as a social norm
+
+[@doherty2017voting]
+
+<br>
+
+. . .
+
+Apart from *demand-side*, there are **supply-side** explanations of voting turnout
+
+- Electoral system and rules
+
+- Party-system structure
+
+- ***Race closeness***
+
+. . .
+
+However, the **empirical evidence** for the role of some of these features is **weak**, [*why?*]{style="color:red;"}
+
+## The argument{auto-animate=true}
+
+
+## The argument{auto-animate=true}
+
+<br>
+
+
+Strong [social norms]{style="color:red;"} *counteract* **race closeness**
+
+<br>
+
+![](social_norm.png){fig-align="center"}
+
+<br>
+
+## The experiment I
+
+<br>
+
+. . .
+
+[Conjoint experiment]{style="color:red;"} replicated in **two studies** with **three versions**:
+
+<br>
+
+- **Battleground status** X **conditional voting**
+
+- **Election closeness** X **conditional voting**
+
+- **Peer behaviour** X **conditional voting** *(social condition)*
+
+## The experiment II{auto-animate=true}
+
+<br>
+
+[**Outcome**]{style="color:red;"}
+
+## The experiment II{auto-animate=true}
+
+<br>
+
+[**Outcome**]{style="color:red;"}
+
+<br>
+
+Hypothetical person's **evaluation**
+
+<br>
+
+![](eval.png){fig-align="center"}
+
+<br>
+
+## Results I
+
+![](fig1a_doherty.png){fig-align="center"}
+
+<center>Doherty et al [-@doherty2017voting]</center>
+
+
+## Results II
+
+![](fig1b_doherty.png){fig-align="center"}
+
+<center>Doherty et al [-@doherty2017voting]</center>
+
+
+## Results III
+
+![](fig1c_doherty.png){fig-align="center"}
+
+<center>Doherty et al [-@doherty2017voting]</center>
+
+
+## What are the implications of this study?
+
+<br>
+
+<br>
+
+. . .
+
+**And what about its** [**limitations?**]{style="color:red;"}
+
+## How the two papers speak to each other?
+
+<br>
+
+![](person_question.png){fig-align="center"}
+
+# Conclusion
+
+------------------------------------------------------------------------
+
+![](questions.png){fig-align="center"}
+
+## Thanks :slightly_smiling_face:
+
+<br>
+
+<br>
+
+See you here at **14:00**!
+
+# References
