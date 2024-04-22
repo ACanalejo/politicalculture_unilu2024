@@ -114,7 +114,7 @@ The research proposal will follow the structure of a standard academic paper. Ho
 
 **Submission deadline**
 
-The deadline for submission is **Friday 26th of April at noon (12:00)**, the week after Block III. The papers must be sent by e-mail to the lecturer at [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch) with the subject *Research proposal YOURSURNAME* (e.g., *Research proposal CANALEJO*).
+The deadline for submission is **Wednesday 1st of May at noon (12:00)**, the week after Block III. The papers must be sent by e-mail to the lecturer at [alvaro.canalejo@unilu.ch](alvaro.canalejo@unilu.ch) with the subject *Research proposal YOURSURNAME* (e.g., *Research proposal CANALEJO*).
 
 **Recommendation**
 
@@ -311,7 +311,7 @@ Additional readings:
 
 - Rubenson, D., & Dawes, C. T. (2022). Subtle primes of in-group and out-group affiliation change votes in a large scale field experiment. Scientific Reports, 12(1), 22526.
 
-### Block III. Topics in Political Culture II (19.04.24 / 9:15–17:00) 
+### Block III. Topics in Political Culture II (19.04.24 / 9:15–15:30) 
 
 This block digs further into the relationship between culture and politics, exploring how political change can induce cultural change and *vice versa*. It also looks at the opposite: how 'sticky' cultural preferences can contain political change. The goal is to identify patterns of reinforcement and contention between politics and culture.
 
