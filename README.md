@@ -130,7 +130,7 @@ The research proposal evaluation will mostly fall under the quality of their wor
 
 The presentation must follow the same structure as the research proposal and make explicit references to the changes made in response to the lecturer's feedback. It must last a maximum of 15 minutes and will be followed by an open discussion.
 
-The presentation slides must be uploaded to the folder *Presentations* in OLAT at the beginning of the week of the last Block, **by Monday 6th of May at noon (12:00)**. This will allow students and the lecturer to prepare comments in advance. The name of the slides file should be *presentation_slides_YOURSURNAME* (e.g., *presentation_slides_CANALEJO*).
+The presentation slides must be uploaded to the folder *Presentations* in OLAT at the beginning of the week of the last Block, **by Wednesday 8th of May at noon (12:00)**. This will allow students and the lecturer to prepare comments in advance. The name of the slides file should be *presentation_slides_YOURSURNAME* (e.g., *presentation_slides_CANALEJO*).
 
 #### 7. Serve as discussant  
 
